@@ -1,7 +1,6 @@
 # 电子元器件3D模型
 
 ![预览图](https://github.com/howborn/electron-component-3d/blob/master/效果.png)
-
 使用 SolidWorks 建模制作的海量元器件 3D 模型，可直接使用于 Altium Designer 软件。
 
 ## 获取资源
@@ -14,7 +13,7 @@
 
 ## 3D模型
 
-海量的元器件 3D 模型库。
+海量的元器件 3D 模型库，模型库部分预览。
 
 ![预览-1](https://github.com/howborn/electron-component-3d/blob/master/photos/预览-1.png)
 
@@ -22,7 +21,7 @@
 
 ![预览-3](https://github.com/howborn/electron-component-3d/blob/master/photos/预览-3.png)
 
-以下是部分元器件模型。
+以下是部分元器件模型预览。
 
 ![SD卡](https://github.com/howborn/electron-component-3d/blob/master/photos/SD卡.png)
 
